@@ -1,7 +1,7 @@
 # AI研修 練習ページ（架空）
 
 AI研修（Claude編）の、Chrome拡張のハンズオン用の練習ページ。内容はすべて架空（メールは example.com、電話は 03-0000-0000 台）。
-公開URL: https://yuichiroiwashita-ctrl.github.io/ai-training-practice/
+公開URL: https://webapps.insp.co.jp/ai-training-practice/
 
 | ファイル | 内容 |
 |---|---|
